@@ -1,0 +1,68 @@
+/*FONT FAMILY ROBOTO */
+@font-face {
+    font-family: Roboto-Bold; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-BoldItalic; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-BoldItalic.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-Italic; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-Italic.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-Light; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-Light.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-LightItalic; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-LightItalic.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-Medium; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-MediumItalic; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-MediumItalic.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Roboto-Regular; /* Гарнитура шрифта */
+    src: url(../fonts/roboto/Roboto-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+/*FONT FAMILY BERNIER */
+@font-face {
+    font-family: BERNIERDistressed-Regular; /* Гарнитура шрифта */
+    src: url(../fonts/bernier/BERNIERDistressed-Regular.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: BERNIERRegular-Regular; /* Гарнитура шрифта */
+    src: url(../fonts/bernier/BERNIERRegular-Regular.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: BERNIERShade-Regular; /* Гарнитура шрифта */
+    src: url(../fonts/bernier/BERNIERShade-Regular.otf); /* Путь к файлу со шрифтом */
+}
+
+/*FONT FAMILY FontAwesome */
+@font-face {
+    font-family: FontAwesome; /* Гарнитура шрифта */
+    src: url(../fonts/FontAwesome.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: fontawesome-webfont; /* Гарнитура шрифта */
+    src: url(../fonts/fontawesome-webfont.ttf); /* Путь к файлу со шрифтом */
+}
+
